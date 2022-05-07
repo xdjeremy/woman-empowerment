@@ -3,7 +3,7 @@ import Wave from '../assets/wave.svg'
 
 const Explain = () => {
   return (
-    <div className="bg-black px-14 pb-32">
+    <div className="bg-black px-14 pb-32 lg:px-[309px]">
       <h1 className="pt-24 text-center text-2xl font-bold text-white md:text-4xl">
         What <span className="underline">Makes</span> A{' '}
         <span className="text-pink">Woman</span> Empowered?

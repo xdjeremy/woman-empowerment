@@ -9,7 +9,7 @@ import Wave from '../assets/wave.svg'
 const Definition = () => {
   return (
     <div className="bg-[#7E1B4C]">
-      <div className="mb-10 px-4">
+      <div className="mb-10 px-4 lg:px-[309px]">
         <h1 className="pt-24 text-center text-4xl font-bold text-white underline md:text-6xl">
           What is Women Empowerment?
         </h1>

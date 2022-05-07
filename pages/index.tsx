@@ -19,7 +19,6 @@ const Home: NextPage = () => {
       <StrongWoman />
       <Definition />
       <Explain />
-      <Photos />
       <Footer />
     </div>
   )

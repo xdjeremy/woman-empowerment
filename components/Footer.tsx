@@ -4,8 +4,8 @@ import Pic from '../assets/Screenshot_from_2022-05-07_12-36-41-removebg-preview.
 
 const Footer = () => {
   return (
-    <div className="flex h-72 flex-col items-center justify-center bg-black px-9 text-white">
-      <div className="flex flex-row items-center gap-12">
+    <div className="flex h-72 flex-col items-center justify-center bg-[#7E1B4C] px-9 text-white lg:px-[500px]">
+      <div className="mt-12 flex flex-row items-center gap-12">
         <span className="text-right text-xl">
           <span className="font-bold">Don't be afraid.</span> Just know na may
           kakampi ka, lagi't lagi lalaban tayo para sa kababaihan. Maraming
